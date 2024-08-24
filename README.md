@@ -1,25 +1,22 @@
 # Portfolio and Rezume Builder without Code
 
 
-
-
-![Screenshot (85)](https://github.com/KunvarAbhishek/rezumebuilder/assets/163161723/ae8f7434-cb3e-48d3-a26b-4fba374dffa0)
-
-![Screenshot (88)](https://github.com/KunvarAbhishek/rezumebuilder/assets/163161723/10cc0c94-a793-49ee-9820-e5b5c1b0370b)
-![Screenshot (90)](https://github.com/KunvarAbhishek/rezumebuilder/assets/163161723/b058c854-3dd8-4569-beb6-7ddf551a254a)
-![Screenshot (91)](https://github.com/KunvarAbhishek/rezumebuilder/assets/163161723/8817cf17-b057-4430-be08-0523691ca81c)
-![Screenshot (92)](https://github.com/KunvarAbhishek/rezumebuilder/assets/163161723/1011da33-c281-40c1-87ec-3c3cac76328c)
-![Screenshot (94)](https://github.com/KunvarAbhishek/rezumebuilder/assets/163161723/afc9e749-284c-4bc1-97d3-6ab204142282)
-![Screenshot (95)](https://github.com/KunvarAbhishek/rezumebuilder/assets/163161723/e7452b9c-074a-4ec2-a18b-2589ae129336)
-![Screenshot (97)](https://github.com/KunvarAbhishek/rezumebuilder/assets/163161723/e52a6793-24b6-422c-85c4-6acf63c1e6e2)
-
-
-
-
-![Screenshot (98)](https://github.com/KunvarAbhishek/rezumebuilder/assets/163161723/b996b53b-eba0-422a-ac70-33152f40208f)
-![Screenshot (100)](https://github.com/KunvarAbhishek/rezumebuilder/assets/163161723/60ac4bf7-0a02-4bfd-844b-184ef1900386)
-
-![Screenshot (101)](https://github.com/KunvarAbhishek/rezumebuilder/assets/163161723/82085b67-e95b-4c34-8988-6946eb601787)
-![Screenshot (102)](https://github.com/KunvarAbhishek/rezumebuilder/assets/163161723/68fec21a-750f-4c02-a5e1-a235a4c5e8b5)
-
-
+![Screenshot (135)](https://github.com/user-attachments/assets/596c7b96-8312-46f0-a68b-17fb71f9f17c)
+![Screenshot (133)](https://github.com/user-attachments/assets/20d8bd30-336e-4ae5-b9f3-539aaa788eca)
+![Screenshot (132)](https://github.com/user-attachments/assets/b7dc2e11-ce3f-4103-a9b5-889ec66ee379)
+![Screenshot (130)](https://github.com/user-attachments/assets/35e1ab02-aae6-4594-85ab-fd99c52d9c03)
+![Screenshot (129)](https://github.com/user-attachments/assets/36451ba8-0a10-4e59-adbe-1d406053e4fa)
+![Screenshot (128)](https://github.com/user-attachments/assets/b875ca1b-1cbb-4a5b-bb2b-c62223074d57)
+![Screenshot (127)](https://github.com/user-attachments/assets/ffc0d3e0-8514-493b-a774-fa5de1f34f3c)
+![Screenshot (126)](https://github.com/user-attachments/assets/9324f4d7-da65-49e1-897a-de0b22395437)
+![Screenshot (125)](https://github.com/user-attachments/assets/588d06d2-ffa7-404a-a475-0c1e66ab3ab5)
+![Screenshot (124)](https://github.com/user-attachments/assets/e58a83f2-0be9-4415-a3f0-1e890c87cc26)
+![Screenshot (123)](https://github.com/user-attachments/assets/91e22cca-028f-4b9b-84a5-9ceee66ef64d)
+![Screenshot (122)](https://github.com/user-attachments/assets/6eb757e6-aac7-4b7b-b934-9024a2fc126e)
+![Resume](https://github.com/user-attachments/assets/75578e11-a0e4-41fa-961d-de6d8fcce5fb)
+![template6](https://github.com/user-attachments/assets/5a341a34-02fd-4d79-b25c-ca60c9027433)
+![template5](https://github.com/user-attachments/assets/20e2c9da-42c3-4066-a0ed-e8542730ea5f)
+![template4](https://github.com/user-attachments/assets/3ae277cc-8723-4c03-b583-e2401f5a7e85)
+![template3](https://github.com/user-attachments/assets/7d8e9dab-52f1-4438-905d-9323aa73c4c4)
+![template2](https://github.com/user-attachments/assets/4ba71af0-49fb-4bb4-9e99-e5af67f557d1)
+![template1](https://github.com/user-attachments/assets/fac93a89-18eb-4ba5-be00-73dca010acd5)
