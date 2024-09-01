@@ -1,3 +1,6 @@
+**IMPORTANT:** All rights to this project, including its ideas and implementation, are copyright to Abhishek Gupta. Any use of this project or its ideas without explicit permission from the Abhishek Gupta is strictly prohibited and may result in serious consequences.
+
+
 # Portfolio Builder with No-Code
 
 This project is a **No-Code Portfolio Builder** designed to help users create professional portfolios and resumes effortlessly, without any prior coding experience. The application is built with **Node.js, MongoDB, HTML, CSS, and JavaScript** and allows users to choose from six different pre-designed templates, customize their details, and instantly download the portfolio or resume in a zip file format. It also offers a resume-building feature that downloads resumes in PDF format.
