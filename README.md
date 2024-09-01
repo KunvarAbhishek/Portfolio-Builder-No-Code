@@ -51,7 +51,7 @@ This project is a **No-Code Portfolio Builder** designed to help users create pr
    
    ![Resume Screenshot](https://github.com/user-attachments/assets/b875ca1b-1cbb-4a5b-bb2b-c62223074d57)
    
-   ![Resume PDF Screenshot](https://github.com/user-attachments/assets/35e1ab02-aae6-4594-85ab-fd99c52d9c03)
+   ![Resume PDF Screenshot](https://github.com/user-attachments/assets/6dfbabdc-45d5-43eb-94ea-ee1e2e473887)
 
 
 6. **Demo PDF**
